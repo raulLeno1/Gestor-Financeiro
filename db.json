@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "id": "4b24",
+      "name": "Salario",
+      "amount": 1300
+    },
+    {
+      "id": "a1d7",
+      "name": "Cartão",
+      "amount": -500
+    }
+  ]
+}
